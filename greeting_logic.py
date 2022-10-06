@@ -1,6 +1,6 @@
 class GreetingGenerator:
     
-    __greeting = "hello world!"
+    __greeting = "Hello world!"
     
     def get_greeting(self):
         return self.__greeting
